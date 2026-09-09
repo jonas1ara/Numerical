@@ -1,3 +1,6 @@
+# Archived
+**This repository has been archived and is no longer actively maintained.** It served as a fun and educational experiment to implement numerical methods from scratch in F#. If you are lookingfor a robust, production-ready, and maintained library for scientific computing and numerical analysis, I strongly recommend using [FSharp.Stats](https://fslab.org/FSharp.Stats/) ([GitHub](https://github.com/fslaborg/FSharp.Stats)).
+
 # Numerical methods using fsharp
 
 ![VG using F#](./img/VG.jpeg)
